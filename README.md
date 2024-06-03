@@ -1,6 +1,6 @@
 # WhatsApp number checker and send message
 
-This project uses [2Chat's](https://2chat.co?ref=gh) public API to verify if a given phone number has a WhatsApp account.
+This project uses [2Chat's](https://2chat.co?ref=gh) public API to demonstrate steps to verify if a given phone number has a WhatsApp account then send `hello world!` message.
 
 > [!TIP]
 > The script defaults to waiting 5 seconds between each check to prevent being throttled by the API. If you have a paid subscription with 2Chat, you can lower this value to 1 second.
