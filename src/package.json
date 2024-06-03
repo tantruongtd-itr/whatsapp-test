@@ -1,0 +1,15 @@
+{
+    "name": "whatsapp-number-checker",
+    "version": "1.0.0",
+    "author": "2Chat Team <support@2chat.co>",
+    "scripts": {
+        "start": "node check-number.js --input-file=example-input.csv --output-file=example-output.csv --source-number=+84898393452"
+    },
+    "dependencies": {
+        "axios": "^1.5.0",
+        "csv-parser": "^3.0.0",
+        "csv-write-stream": "^2.0.0",
+        "dotenv": "^16.3.1",
+        "yargs": "^17.7.2"
+    }
+}
