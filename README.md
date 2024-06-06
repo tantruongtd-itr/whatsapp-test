@@ -50,3 +50,7 @@ Recommendation: Run a single instance of this script for every connected number 
 
 > [!NOTE]
 > Verification API limitation is equal to message API limitation per month.
+
+## Suggestion price
+
+US$ 45/monthly or US$ 420/annual
