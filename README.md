@@ -41,9 +41,12 @@ API_KEY=<your API key here>
 
 ## API limits and running this script in parallel
 
-We recommend you run a single instance of this script for every connected number on your 2Chat account to achieve faster speeds.
+Recommendation: Run a single instance of this script for every connected number on your 2Chat account to achieve faster speeds.
 
 ## Billing
 
 * Your account may be rate-limited during the trial period.
 * Upgrade to enhance request limit [here](https://app.2chat.io/billing?).
+
+> [!NOTE]
+> Verification API limitation is equal to message API limitation per month.
