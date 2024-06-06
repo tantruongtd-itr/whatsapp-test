@@ -29,3 +29,6 @@ A conversation will last for 24 hours when first initiated (first message sent) 
 First 1000 conversations per month is free across all of business phone numbers.
 
 Rate for Service in North America: $0.015/conversation
+
+> [!NOTE]
+> Currently we are using Utility category message types.
